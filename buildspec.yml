@@ -10,4 +10,4 @@ phases:
     commands:
       - echo Entering the build phase...
       - echo Running taskcat
-      - taskcat -c $CODEBUILD_SRC_DIR/avx-byol/ci/config.yml
+      - taskcat -c $CODEBUILD_SRC_DIR/avx-awsmp-byol/ci/config.yml
