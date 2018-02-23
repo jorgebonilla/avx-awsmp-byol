@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "VPCID",
+        "ParameterValue": "vpc-95e7f1ed"
+    },
+    {
+        "ParameterKey": "PublicSubnet1",
+        "ParameterValue": "subnet-1ddcb532"
+    },
+    {
+        "ParameterKey": "KeyPair",
+        "ParameterValue": "AviatrixDemo"
+    },
+    {
+        "ParameterKey": "ControllerSize",
+        "ParameterValue": "t2.large"
+    },
+    {
+        "ParameterKey": "CreateIamRole",
+        "ParameterValue": "Yes"
+    }
+]
