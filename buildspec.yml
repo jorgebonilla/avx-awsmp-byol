@@ -10,4 +10,4 @@ phases:
     commands:
       - echo Entering the build phase...
       - echo Running taskcat
-      - taskcat -c avx_byol/ci/config.yml
+      - taskcat -c ci/config.yml
