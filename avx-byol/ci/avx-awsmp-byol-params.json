@@ -1,11 +1,11 @@
 [
     {
         "ParameterKey": "VPCID",
-        "ParameterValue": "vpc-95e7f1ed"
+        "ParameterValue": "vpc-afdee5d7"
     },
     {
         "ParameterKey": "PublicSubnet1",
-        "ParameterValue": "subnet-1ddcb532"
+        "ParameterValue": "subnet-df6ff7f0"
     },
     {
         "ParameterKey": "KeyPair",
@@ -17,6 +17,6 @@
     },
     {
         "ParameterKey": "CreateIamRole",
-        "ParameterValue": "Yes"
+        "ParameterValue": "No"
     }
 ]

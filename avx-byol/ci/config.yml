@@ -1,11 +1,16 @@
 global:
   marketplace-ami: false
   owner: jorge@aviatrix.com
-  qsname: avx_byol
+  qsname: avx-byol
   regions:
+    - us-east-1
     - us-east-2
+    - us-west-1
+    - us-west-2
   reporting: true
 tests:
   avx-awsmp-byol:
     parameter_input: avx-awsmp-byol-params.json
     template_file: avx-awsmp-byol.template
+    regions:
+      - us-east-1
