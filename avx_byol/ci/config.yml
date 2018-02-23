@@ -3,7 +3,7 @@ global:
   owner: jorge@aviatrix.com
   qsname: avx_byol
   regions:
-    - us-east-1
+    - us-east-2
   reporting: true
 tests:
   avx-awsmp-byol:
