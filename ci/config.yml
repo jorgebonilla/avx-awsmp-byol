@@ -1,7 +1,6 @@
 global:
   marketplace-ami: false
   owner: jorge@aviatrix.com
-  qsname: avx_byol
   regions:
     - us-east-1
   reporting: true
